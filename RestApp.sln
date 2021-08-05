@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApp", "RestApp\RestApp.csproj", "{81408162-4879-4DB5-96AB-8785B8894608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81408162-4879-4DB5-96AB-8785B8894608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81408162-4879-4DB5-96AB-8785B8894608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81408162-4879-4DB5-96AB-8785B8894608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81408162-4879-4DB5-96AB-8785B8894608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B406AF68-9017-48B6-883C-23F8E48B7FDF}
+	EndGlobalSection
+EndGlobal
